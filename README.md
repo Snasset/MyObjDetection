@@ -1,1 +1,1 @@
-Object Detection with Tensorflow lite
+Object Detection with Tensorflow lite in CameraX
